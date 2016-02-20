@@ -44,6 +44,7 @@ class Login extends ProvidesEventsForm
             ),
             'attributes' => array(
                 'type' => 'password',
+                'class' => "btn btn-primary btn-dtg"
             ),
         ));
 
